@@ -1,0 +1,25 @@
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Ignore other unneeded files.
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+.secret
+
+# Build
+out
+build
+bin
+
+# Other
+*.log
+*.log.*
+*.swp
+*.bak
